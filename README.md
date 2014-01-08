@@ -4,7 +4,7 @@ Preparation of OCP
 
 -------------
 #051
-Refer to [051.md](/051.md)
+Refer to [Functions](/functions.md)
 #052
 Refer to [052.md](/052.md)
 #053
